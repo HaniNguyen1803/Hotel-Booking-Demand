@@ -6,8 +6,8 @@ The dataset can be found in [Kaggle](https://www.kaggle.com/jessemostipak/hotel-
 
 # Attributes
 - Numerical:
-  -'lead_time': Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
-  -'arrival_date_year': Year of arrival date
+  - 'lead_time': Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
+  - 'arrival_date_year': Year of arrival date
   - 'arrival_date_week_number': Week number of the arrival date
   - 'arrival_date_day_of_month': Day of the month of the arrival date
   - 'stays_in_weekend_nights': Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel.
